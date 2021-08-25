@@ -1,0 +1,10 @@
+{
+    "UserPoolId": "ap-southeast-1_WqYN2b4RN",
+    "ClientId": "4s6cepn5g37b3nvhj97iutgj85",
+    "AuthFlow": "ADMIN_NO_SRP_AUTH",
+    "AuthParameters": {
+        "USERNAME": "jane@example.com", 
+        "PASSWORD": "password"
+    }
+}
+

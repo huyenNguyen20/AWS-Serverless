@@ -1,0 +1,20 @@
+{
+  "name": "sam-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --roots __tests__/unit",
+    "integ-test": "jest --roots __tests__/integration"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.974.0",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
